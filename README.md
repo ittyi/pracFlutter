@@ -2,5 +2,6 @@
 
 ## 実行確認
 ``` bash
-https://github.com/ittyi
+flutter run --device-id chrome
+
 ```
